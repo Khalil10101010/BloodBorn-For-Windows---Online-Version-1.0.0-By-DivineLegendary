@@ -19,4 +19,4 @@ The launcher now always writes user\last_run.log: attach it when you report a pr
 Your saves, settings and mods are kept when you update.
 
 (bloodborne needed files are here)
-https://gofile.io/d/fe234fc6-60db-41fd-81c8-c2d5995b763f
+a link will be here soon...
